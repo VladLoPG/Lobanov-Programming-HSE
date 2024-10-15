@@ -1,0 +1,6 @@
+Sed Exercises
+
+Replace all occurrences of "quick" with "swift" in file1.txt inplace
+Delete all lines containing the word "dog" in file1.txt inplace and save the backup to a file with .orig extension
+
+deleting: sed '/word/d' file

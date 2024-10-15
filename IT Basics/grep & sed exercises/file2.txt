@@ -1,0 +1,5 @@
+2023-03-15 10:30:45 INFO User logged in
+2023-03-15 10:31:22 ERROR Database connection failed
+2023-03-15 10:32:01 INFO User logged out
+2023-03-15 10:33:15 WARNING Disk space low
+2023-03-15 10:34:30 ERROR File not found
