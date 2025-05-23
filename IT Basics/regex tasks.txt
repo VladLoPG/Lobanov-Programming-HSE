@@ -1,0 +1,17 @@
+1 Task: Find all words in a string that start with a capital letter.
+	"Hello world, this is a Regex example with Python."
+	
+2 Task: Replace all instances of "is" with "was" in the string.
+	"This is a test. This is only a test."
+	
+3 Task: Extract All URLs from a Text
+"""
+Visit https://www.example.com or follow http://example.org.
+You can also check out https://another-example.com/path?arg=val for more details.
+"""
+
+4 Task: Find all hashtags in a comment
+	"Loving the #sunset and #nature! #beautiful_day"
+	
+5 Task: Remove the repeated words
+	"This is is a test test string."

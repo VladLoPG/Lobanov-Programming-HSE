@@ -1,0 +1,8 @@
+Grep Exercises
+
+Find all lines containing the word "quick" in file1.txt and save to quick.txt
+Count the number of lines containing the word "the" (case-insensitive) in file1.txt and save to the_count.txt
+Find all lines that start with "The" in file1.txt and save to the.txt
+Find all lines containing either "fox" or "dog" in file1.txt and save to animals.txt
+Extract all timestamps from file2.txt and save to timestamps.txt
+Find all ERROR and WARNING messages in file2.txt and save to errors.txt
